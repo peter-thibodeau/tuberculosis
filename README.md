@@ -1,1 +1,1 @@
-I used the World Health Organization Tuberculosis dataset 2022 to build a Tableau dashboard to strengthen my skillset.
+I built a Tableau dashboardused from the World Health Organization Tuberculosis dataset for 2022.
